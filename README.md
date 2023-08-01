@@ -1,1 +1,5 @@
-It was necessary to bring the names of products to the correct form, and then specify a link to the product from the marketplace (onliner.by) on the site of the customer.
+Steam analyze stuffs
+Graph_site.py - Get all the names of any Steam game items
+Graph_site_2.py - Do a price analysis of each item
+
+
